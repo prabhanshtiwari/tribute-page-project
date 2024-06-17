@@ -31,7 +31,7 @@ html {
 }
 
 .main-image {
-    background-image: url(./images/main-image.jpeg);
+    background-image: url(main-image.jpeg);
     background-attachment: scroll; /* fixed- This property is adding the parallax effect*/
     background-size: cover;
     min-height: 650px;
